@@ -48,6 +48,7 @@ ul {
 
 .guy_info {
     padding: 0 6em;
+    padding-top: 0;
     display: flex;
     justify-content: space-around;
     padding-bottom: 1em;
